@@ -18,4 +18,4 @@
   
   | **Drawing** |
 | :----: |
-| ![Msensor](https://user-images.githubusercontent.com/89953755/181523769-a763e4c4-04fa-4f4a-b830-595a01927c9a.png) |
+|![Msensor](https://user-images.githubusercontent.com/89953755/181564592-d8397dfb-5ece-47a6-8afd-e247d1b5d603.png) |
