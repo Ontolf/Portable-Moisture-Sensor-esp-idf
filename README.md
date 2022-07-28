@@ -6,7 +6,7 @@
   |||  
     
  **Moisture Monitor**  
- Small and portable moisture monitor designed to measure moisture of soil at anytime you want. A stylish display allows to see your measurements in percentage from 0 to 100.
+ Small and portable moisture monitor designed to measure moisture of soil at anytime you want. A stylish display allows to see your live measurements in percentage from 0 to 100.
       
 | **Name** | **Description** | **Voltage** | **Quantity** |
 |------|-------------|:-------:|:--------:|
